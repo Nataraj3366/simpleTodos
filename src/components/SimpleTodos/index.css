@@ -1,0 +1,22 @@
+body {
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  background-color: #ffffff;
+  margin: 30px;
+  width: 500px;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+ul {
+  padding: 20px;
+}
+
+h1 {
+  color: #ff8542;
+  text-align: center;
+}

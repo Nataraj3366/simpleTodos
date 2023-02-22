@@ -1,0 +1,15 @@
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #000000;
+}
+
+button {
+  color: #ff0b37;
+  background-color: #ffffff;
+  border: 1px solid #ff0b37;
+  border-radius: 20px;
+  padding: 5px 10px;
+}
